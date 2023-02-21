@@ -87,7 +87,7 @@
 /** первый блок**/
 
 .blank {
-    background-image: url(/img/Group\ 7.png);
+    background-image: url(img/Group\ 7.png);
     background-size: cover;
     height: 707px;
 }
@@ -424,19 +424,19 @@ hr.line-decor {
 
 .card-types-1 {
     width: 390px;
-    background-image: url(/img/card1.jpg);
+    background-image: url(img/card1.jpg);
     background-repeat: no-repeat;
     background-position: top;
 }
 .card-types-2 {
     width: 390px;
-    background-image: url(/img/card2.jpg);
+    background-image: url(img/card2.jpg);
     background-repeat: no-repeat;
     background-position: top;
 }
 .card-types-3 {
     width: 390px;
-    background-image: url(/img/card\ 3.jpg);
+    background-image: url(img/card\ 3.jpg);
     background-repeat: no-repeat;
     background-position: top;
 }
@@ -486,7 +486,7 @@ hr.line-decor {
 /** пятый блок**/
 
 .advantages{
-    background-image: url(/img/image\ 6.1.png);
+    background-image: url(img/image\ 6.1.png);
     background-repeat: no-repeat;
     position: relative;
     margin-top: 124px;
@@ -626,7 +626,7 @@ hr.line-decor {
 
 /** галерея **/
 .fantasies {
-    background: url(/img/bg_galery.png) no-repeat;
+    background: url(img/bg_galery.png) no-repeat;
     background-size: cover;
     background-position: center;
     margin-top: 290px;
