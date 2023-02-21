@@ -1,0 +1,12 @@
+
+		<html>
+		<head>
+		<title></title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<style>
+			td {mso-number-format:\@;}
+			.number0 {mso-number-format:0;}
+			.number2 {mso-number-format:Fixed;}
+		</style>
+		</head>
+		<body><table border="1"><tr><td>Название</td><td>Активность</td><td>ID</td><td>Тип</td><td>Длина l (мм.)</td><td>Высота H (мм.)</td><td>B</td><td>B1</td><td>Макс. нагрузка (кг.)</td></tr></table></body></html>
