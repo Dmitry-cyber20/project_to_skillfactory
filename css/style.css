@@ -113,7 +113,7 @@ padding-right: 45px;
 <!--Первый экран-->
 
 .blank {
-    background-image: url(img/bg.jpg);
+    background-image: url(../img/bg.jpg);
     background-size: cover;
     background-position: center;
   }
