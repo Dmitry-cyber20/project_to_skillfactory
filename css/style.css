@@ -917,7 +917,7 @@ input::placeholder {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background: linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24, 0.72) 100%), url(/img/bg-contacts.png) center / cover no-repeat #181818;
+  background: linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24, 0.72) 100%), url(../img/bg-contacts.png) center / cover no-repeat #181818;
   background-size: cover;
   background-position: center;
 }
