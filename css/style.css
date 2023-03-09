@@ -912,7 +912,7 @@ input::placeholder {
 /** Контакты **/
 
 .contacts-container {
-  max-width: inherit;
+  width: auto;
   display: flex;
   justify-content: center;
   align-items: center;
