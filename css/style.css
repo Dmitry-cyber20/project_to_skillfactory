@@ -544,7 +544,7 @@ input::placeholder {
 
 
 .advantages {
-    background-image: url(img/bg_advantages.png); 
+    background-image: url(../img/bg_advantages.png); 
     background-repeat: no-repeat;
   }
 .advantages_container{
@@ -724,7 +724,7 @@ input::placeholder {
 
 /** галерея **/
 .fantasies {
-    background: url(img/bg_gallery.png) no-repeat;
+    background: url(../img/bg_gallery.png) no-repeat;
     background-size: cover;
     background-position: center;
     margin-top: 240px;
@@ -900,12 +900,12 @@ input::placeholder {
   z-index: -1;
 }
 .reviews-background_left {
-  background-image: url(img/town.png);
+  background-image: url(../img/town.png);
   background-position: bottom;
 }
 .reviews-background_right {
   width: 100%;
-  background-image: url(/img/town.png);
+  background-image: url(../img/town.png);
   background-position: bottom;
 }
 
