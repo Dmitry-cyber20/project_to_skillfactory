@@ -296,7 +296,7 @@ padding-right: 45px;
   }
   .projects-photo__img {
     margin-top: 53px;
-    background-image: url(/img/interoom.png);
+    background-image: url(img/interoom.png);
     width: 679px;
     height: 482px;
   }
@@ -478,19 +478,19 @@ input::placeholder {
 
 .card-types_1 {
     width: 390px;
-    background-image: url(/img/card1.png);
+    background-image: url(img/card1.png);
     background-repeat: no-repeat;
     background-position: top;
 }
 .card-types_2 {
     width: 390px;
-    background-image: url(/img/card2.png);
+    background-image: url(img/card2.png);
     background-repeat: no-repeat;
     background-position: top;
 }
 .card-types_3 {
     width: 390px;
-    background-image: url(/img/card3.png);
+    background-image: url(img/card3.png);
     background-repeat: no-repeat;
     background-position: top;
 }
@@ -544,7 +544,7 @@ input::placeholder {
 
 
 .advantages {
-    background-image: url(/img/bg_advantages.png); 
+    background-image: url(img/bg_advantages.png); 
     background-repeat: no-repeat;
   }
 .advantages_container{
@@ -724,7 +724,7 @@ input::placeholder {
 
 /** галерея **/
 .fantasies {
-    background: url(/img/bg_gallery.png) no-repeat;
+    background: url(img/bg_gallery.png) no-repeat;
     background-size: cover;
     background-position: center;
     margin-top: 240px;
