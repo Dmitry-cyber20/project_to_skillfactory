@@ -478,19 +478,19 @@ input::placeholder {
 
 .card-types_1 {
     width: 390px;
-    background-image: url(img/card1.png);
+    background-image: url(../img/card1.png);
     background-repeat: no-repeat;
     background-position: top;
 }
 .card-types_2 {
     width: 390px;
-    background-image: url(img/card2.png);
+    background-image: url(../img/card2.png);
     background-repeat: no-repeat;
     background-position: top;
 }
 .card-types_3 {
     width: 390px;
-    background-image: url(img/card3.png);
+    background-image: url(../img/card3.png);
     background-repeat: no-repeat;
     background-position: top;
 }
